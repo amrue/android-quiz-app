@@ -1,4 +1,4 @@
 android-quiz-app
 ================
 
-ListViews, putExtra, XML, and changing colors
+Class assignement that I feel I can expand upon and do some interesting things. Trivia game, perhaps? 

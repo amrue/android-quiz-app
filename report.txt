@@ -1,0 +1,18 @@
+1. Done
+
+2. In StartElement I left everything as is, but in the endElement I stored the question in an array when I found a </question> tag, signifying the end of the question. I then cleared the question and started over. It was not too difficult to get working correctly. 
+
+3. I add the test to the Android project fine, but I am asked to select what configuration to use. I use the Android JUnit configuration and it runs well. For the seperate Java test, I managed to set things up smoothly but to run it, I had to choose to run the Eclipse JUnit test. It ran well too. 
+
+4. Done
+
+5. I chose to send it back as an int because I felt it was easier to manage than keeping track of a question object. I could have used boolean I suppose, but I felt comfortable with int.
+
+6. First question: Answer is 1
+Second question: Answer is 3
+
+7. Done
+
+8. Done
+
+

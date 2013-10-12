@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework03</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_question">Question</string>
+    <string name="title_activity_answer">Answer</string>    
+    <string name="answer_back_button">Back</string>       
+</resources>

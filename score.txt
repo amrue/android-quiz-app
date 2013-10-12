@@ -1,0 +1,36 @@
+Directory named hw03 at top level, containing src, res, etc.: 
+2
+Student checked in build.xml and ant build succeeds:
+2
+First screen shows a list of all questions:
+2
+When selecting a question, a list of all choices is shown:
+2
+When a user selects a choice, there is a toast whether the choice is right or not:
+2
+Then the initial screen is shown, with the question in red or green: 
+2
+At the bottom of that screen is a score field that has now been updated:
+2
+The solution has a class Quiz and a class Question:
+2
+Contains plain text file report.txt:
+2
+Report explains how to decide what to do in startElement/endElement:
+2
+Report explains what student returned to parent activity and why:
+2
+Report contains correct answers to quiz questions: 
+2
+No static variables other than constant strings or numbers: 
+2
+Student supplied unit test in separate hw03test directory:
+2
+Unit test runs and passes: 
+2
+At least three git submissions?
+2
+TOTAL: 32/32
+
+
+
